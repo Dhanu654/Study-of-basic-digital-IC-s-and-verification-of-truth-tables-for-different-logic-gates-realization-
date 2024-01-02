@@ -1,12 +1,12 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+ # AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+# Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
+# Theory
+# Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -51,22 +51,29 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-Procedure
+# Procedure
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+# Program:
 /*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+# Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+# Developed by: Dhanusya K
+# RegisterNumber:  23006651
+![Screenshot 2024-01-02 193723](https://github.com/Dhanu654/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514965/1f05cc3a-1db9-42ce-bef4-e4bcaf94124d)
+
 */
-Logic symbol & Truthtable
+# Logic symbol & Truthtable
+![Screenshot 2024-01-02 193748](https://github.com/Dhanu654/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514965/667d87d3-c7ee-4b60-a051-a01aca8d8c07)
+![Screenshot 2024-01-02 193808](https://github.com/Dhanu654/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514965/75bd8f32-a22e-493a-a1bd-0cb8583a406e)
+
 RTL realization
-Output:
+# Output:
 RTL
+![Screenshot 2024-01-02 193839](https://github.com/Dhanu654/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514965/a9c7903a-a07b-4e3c-970b-ccb5f0b2c443)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
